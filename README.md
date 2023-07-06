@@ -5,9 +5,9 @@ This repository provides public data for "High-performance Kerr quantum battery"
 ## Important folder/file(s):
 - **data**:  
 this folder contains all calculation/simulation data of figures 2-4 of the paper.
-- **PlotQB-data.ipynb**:  
+- **[PlotQB-data.ipynb](https://nbviewer.org/github/artnugraha/KerrQB/blob/main/PlotQB-Data.ipynb)**:  
 the main file for plotting and polishing figures 2-4 of the paper.
-- **QuTiP-simulation.ipynb**:  
+- **[QuTiP-simulation.ipynb](https://nbviewer.org/github/artnugraha/KerrQB/blob/main/QuTiP-simulation.ipynb)**:  
 this file gives a rough sketch of all QuTiP simulations performed in this study.
 
 ## Contacts:
