@@ -18,3 +18,7 @@ Corresponding authors for the paper:
 
 Additionally, the following author contributed mostly to the coding and plotting:
 - A. R. T. Nugraha (ahmad.ridwan.tresna.nugraha@brin.go.id)
+
+Other co-authors:
+- A. B. Cahaya (adam@sci.ui.ac.id)
+- A. Rusydi (andrivo.rusydi@nus.edu.sg)
